@@ -1,6 +1,6 @@
 name: c4p Service - Service Pipeline
 env: 
-  KO_DOCKER_REPO: docker.io/eazytraining
+  KO_DOCKER_REPO: docker.io/aliachouch1979
 on:
   push:
     branches: ['main']
